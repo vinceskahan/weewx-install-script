@@ -64,7 +64,7 @@ PYTHON_VERSION=3
 
 ## setup.py development_versions tgz
 WEEWX_DOWNLOAD_METHOD="development_versions" 
-WEEWX_VERSION="4.0.0b5"                          # mandatory
+WEEWX_VERSION="4.0.0b6"                          # mandatory
 
 #-------------------------------------------------------------
 # STOP EDITING HERE
